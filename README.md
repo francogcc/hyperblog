@@ -1,2 +1,2 @@
 # hyperblog
-Test repository for Git course on Platzi
+Un blog increíble para el curso de Git y Github de Platzi
